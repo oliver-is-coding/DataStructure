@@ -31,7 +31,7 @@ def main():
         2. Factorial
         3. Recursive Combination
         4. Combination
-    """"")
+    """)
 
     answer = int(input(" your choice : "))
     if answer == 1:
